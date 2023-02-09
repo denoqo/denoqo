@@ -2,7 +2,7 @@
 
 
 
-####  🔬️ Education and skillsets
+####  🔬️ Learning
 
 * 4th year PhD candidate in Bioinformatics @ UT-Austin
 * Research: Cancer Genomics/non-B DNA/Single Cell/Clinical sequencing analyses 
@@ -12,8 +12,8 @@
 #### ❤️ Interests
 
 * Highly-reproducible science
-* Coding are changing the world
-* Lower time complexity (in functions and in life)
+* Coding in daily life
+* Lower time complexity (both functions life)
 * Golf on Sunday morning 
 * Outdoor Running💨
 * Espresso ☕️
