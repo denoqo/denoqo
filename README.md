@@ -12,7 +12,6 @@
 #### ⛳️ Interests
 
 * Highly-reproducible science
-* Coding in daily life
 * Lower time complexity (both programming and life)
 * Golf on Sunday morning 🏌️
 * Outdoor Running💨
