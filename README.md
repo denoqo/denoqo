@@ -15,5 +15,5 @@
 * Coding are changing the world
 * Lower time complexity (in functions and in life)
 * Golf on Sunday morning 
-* Running around lady bird lake 💨
-* Coffee ☕️
+* Outdoor Running💨
+* Espresso ☕️
