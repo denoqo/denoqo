@@ -7,7 +7,7 @@
 * 4th year PhD candidate in Bioinformatics @ UT-Austin
 * Research: Cancer Genomics/non-B DNA/Single Cell/Clinical sequencing analyses 
 * 6 yrs R/Shiny/Tidyverse/packagedev/Bioconductor/RMarkdown/etc...
-* Still Learning full-stack web devlopment Java/Go/React
+* Learning full-stack web devlopment Java/Go/React
 
 #### ❤️ Interests
 
