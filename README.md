@@ -13,7 +13,7 @@
 
 * Highly-reproducible science
 * Coding in daily life
-* Lower time complexity (both functions life)
+* Lower time complexity (both programming and life)
 * Golf on Sunday morning 
 * Outdoor Running💨
 * Espresso ☕️
