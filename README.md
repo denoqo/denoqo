@@ -5,7 +5,7 @@
 ####  🧑‍💻 Learning
 
 * 4th year PhD candidate in Bioinformatics @ UT-Austin
-* Research: Cancer Genomics| Clinical Molecular Profiling 
+* Research: Cancer Genomics | Clinical Molecular Profiling 
 * 6 yrs R|Shiny|Tidyverse|PackageDev|Bioconductor|RMarkdown|etc...
 * Learning full-stack Web Dev Java | ReactJS
 
