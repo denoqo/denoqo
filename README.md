@@ -13,5 +13,5 @@
 
 * Highly-reproducible science
 * Lower time complexity (both programming and life)
-* Golfing on Sunday morning & Outdoor Running 🏌️
+* Golfer & Runner 🏌️
 * Espresso ☕️
